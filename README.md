@@ -4,7 +4,7 @@ This script is a python utility that matches the capture groups of a defined reg
 
 Author: @marcolongol
 
-Input: `regex2csv.py <regex> <string>`
+Input: `regex2csv.py <regex> <file>`
 
 Output: csv format of the regex capture groups consisting of the line number, capture group name, and the capture group value for each line in the file
 
